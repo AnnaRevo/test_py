@@ -11,6 +11,7 @@
 
 ## Запуск
 ```
+база данных manning_table_script.sql
 pip install matplotlib, pandas, psycopg2, tk, seaborn
 python main.app
 
